@@ -23,16 +23,16 @@ It has the code of server side made using express and node.
 It contains the screenshots of UI.
 ```
 1. Homepage
-![Homepage](https://github.com/Dhaval-Tank/tesla-clone/main/screenshot/Homepage.png?raw=true)
+![Homepage](https://github.com/Dhaval-Tank/Tesla-clone/blob/main/screenshot/Homepage.png?raw=true)
 
 2. Log in Page
-![Login Page](https://github.com/Dhaval-Tank/tesla-clone/main/screenshot/login_page.png?raw=true)
+![Login Page](https://github.com/Dhaval-Tank/Tesla-clone/blob/main/screenshot/login_page.png?raw=true)
 
 3. Sidebar
-![Login Page](https://github.com/Dhaval-Tank/tesla-clone/main/screenshot/sidebar.png?raw=true)
+![Login Page](https://github.com/Dhaval-Tank/Tesla-clone/blob/main/screenshot/sidebar.png?raw=true)
 
 4. Log in Page
-![Login Page](https://github.com/Dhaval-Tank/tesla-clone/main/screenshot/SignUp_page.png?raw=true)
+![Login Page](https://github.com/Dhaval-Tank/Tesla-clone/blob/main/screenshot/SignUp_page.png?raw=true)
 
 ## Show your support
 
