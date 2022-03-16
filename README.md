@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Tesla CLone👋</h1>
+<h1 align="center">Welcome to Tesla Clone👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/client" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/client.svg">
