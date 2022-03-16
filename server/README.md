@@ -1,9 +1,11 @@
-<h1 align="center">Welcome to client 👋</h1>
+<h1 align="center">Welcome to server 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/client" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/client.svg">
+  <a href="https://www.npmjs.com/package/server" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/server.svg">
   </a>
 </p>
+
+> handling backend for tesla clone
 
 ## Install
 
@@ -22,6 +24,11 @@ npm run start
 ```sh
 npm run test
 ```
+
+## Author
+
+👤 **Dhaval Tank**
+
 
 ## Show your support
 
